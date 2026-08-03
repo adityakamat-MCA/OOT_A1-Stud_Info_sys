@@ -49,15 +49,82 @@ ________________________________________
 15.	Display roles using polymorphism.
 ________________________________________
 7. Sample Output
-Aditya registered successfully in Goa University
-Aditya enrolled in Object Oriented Programming
-Attendance marked for Aditya
-Grade A assigned to Aditya
+   
+C:\Users\Student\Desktop\Aditya Kamat\OOT\Student information System>java Main.java
+Enter number of students: 2
+
+Enter details of Student 1
+Student ID: 2604
+Name: Aditya Kamat
+Semester: 1
 CGPA: 9.1
-Aditya dropped Object Oriented Programming
+Aditya Kamat registered successfully in Goa University
+Aditya Kamat enrolled in Object Oriented Programming
+Aditya Kamat enrolled in Database Management System
+Attendance marked for Aditya Kamat
+Grade A assigned to Aditya Kamat
+CGPA: 9.1
+
+Courses of Aditya Kamat:
+- Object Oriented Programming
+- Database Management System
+
+--- Dropping a Course ---
+Aditya Kamat dropped Database Management System
+
+--- Courses after Dropping ---
+
+Courses of Aditya Kamat:
+- Object Oriented Programming
+
+--- Enrolling in a New Course ---
+Aditya Kamat enrolled in Artificial Intelligence
+
+--- Courses after Enrolling in a New Course ---
+
+Courses of Aditya Kamat:
+- Object Oriented Programming
+- Artificial Intelligence
+
+
+Enter details of Student 2
+Student ID: 2608
+Name: Vaidehi Sinai Varde
+Semester: 1
+CGPA: 8.6
+Vaidehi Sinai Varde registered successfully in Goa University
+Vaidehi Sinai Varde enrolled in Object Oriented Programming
+Vaidehi Sinai Varde enrolled in Database Management System
+Attendance marked for Vaidehi Sinai Varde
+Grade A assigned to Vaidehi Sinai Varde
+CGPA: 8.6
+
+Courses of Vaidehi Sinai Varde:
+- Object Oriented Programming
+- Database Management System
+
+--- Dropping a Course ---
+Vaidehi Sinai Varde dropped Database Management System
+
+--- Courses after Dropping ---
+
+Courses of Vaidehi Sinai Varde:
+- Object Oriented Programming
+
+--- Enrolling in a New Course ---
+Vaidehi Sinai Varde enrolled in Artificial Intelligence
+
+--- Courses after Enrolling in a New Course ---
+
+Courses of Vaidehi Sinai Varde:
+- Object Oriented Programming
+- Artificial Intelligence
+
+
 
 --- Polymorphism Demo ---
-Aditya is a Student
+Aditya Kamat is a Student
+Vaidehi Sinai Varde is a Student
 Mr. Hanumant Redkar is a Faculty Member
 ________________________________________
 8. Coding Guidelines
