@@ -32,21 +32,21 @@ ________________________________________
 •	Faculty teaches a Course.
 ________________________________________
 6. Program Flow
-1.	Create University.
-2.	Create School.
-3.	Link School to University.
-4.	Create Discipline.
-5.	Create Program.
-6.	Create Faculty.
-7.	Create Course.
-8.	Create Student.
-9.	Register Student.
-10.	Student enrolls in a course.
-11.	Faculty marks attendance.
-12.	Faculty assigns grade.
-13.	Student views CGPA.
-14.	Student drops the course.
-15.	Display roles using polymorphism.
+	Create University.
+	Create School.
+	Link School to University.
+	Create Discipline.
+	Create Program.
+	Create Faculty.
+	Create Course.
+	Create Student.
+	Register Student.
+	Student enrolls in a course.
+	Faculty marks attendance.
+	Faculty assigns grade.
+	Student views CGPA.
+	Student drops the course.
+	Display roles using polymorphism.
 ________________________________________
 7. Sample Output
    
